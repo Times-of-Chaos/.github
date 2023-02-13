@@ -4,3 +4,4 @@
 ----
 
 *A fictional science fiction series based on modern times.*
+</div>
